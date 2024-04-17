@@ -4,6 +4,8 @@ VR OpenXR Button Interaction
 Script for using the Oculus A/B Buttons in the "Created with VR"[^1] Unity Tutorial.
 Update for the Masterlecture 2024[^2] at FH JOANNEUM.
 
+<img src="./images/waterPistol.png" width="600">
+
 Used Packages:
 * OpenXR Plugin
 * Universal RP (Render Pipeline)
