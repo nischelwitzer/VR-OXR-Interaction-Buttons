@@ -23,7 +23,7 @@ Water pistol asset from AssetStore[^4]. For the shooting Algorithm in Unity
 see the [cannon example](../Cannon_MoveShot).
   
 [^1]: https://learn.unity.com/course/create-with-vr
-[^2]: \Data\1_dev\1_unity\2024_aim\VRoom_v16_error30\Assets\Scripts
-[^3]: \Users\nisch\Bilder\Screenshots
+[^2]: Path \Data\1_dev\1_unity\2024_aim\VRoom_v16_error30\Assets\Scripts
+[^3]: Path \Users\nisch\Bilder\Screenshots (only for reference)
 [^4]: https://assetstore.unity.com/packages/3d/props/tools/free-tools-kit-155875
 
