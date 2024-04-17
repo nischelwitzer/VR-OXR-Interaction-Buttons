@@ -12,6 +12,11 @@ Used Packages:
 
 <img src="./images/InputManager.png" width="800">
 
+Create two new InputActions with the new InputManager
+* Button A: Primary Button
+* Button B: Secondary Button
+* Use the Script 
+  
 [^1]: https://learn.unity.com/course/create-with-vr
 [^2]: \Data\1_dev\1_unity\2024_aim\VRoom_v16_error30\Assets\Scripts
 [^3]: \Users\nisch\Bilder\Screenshots
