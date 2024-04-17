@@ -15,7 +15,8 @@ Used Packages:
 Create two new InputActions with the new InputManager
 * Button A: Primary Button
 * Button B: Secondary Button
-* Use the Script 
+* Use the Script [XRButtonsAB.cs](./scripts/XRButtonsAB.cs)
+* Check the Consolen Output (via Oculus Link)
   
 [^1]: https://learn.unity.com/course/create-with-vr
 [^2]: \Data\1_dev\1_unity\2024_aim\VRoom_v16_error30\Assets\Scripts
