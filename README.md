@@ -19,7 +19,8 @@ Create two new InputActions with the new InputManager
 * Use the Script [XRButtonsAB.cs](./scripts/XRButtonsAB.cs)
 * Check the Consolen Output (via Oculus Link)
 
-Water pistol asset from AssetStore[^4].
+Water pistol asset from AssetStore[^4]. For the shooting Algorithm in Unity 
+see the [cannon example](../Cannon_MoveShot).
   
 [^1]: https://learn.unity.com/course/create-with-vr
 [^2]: \Data\1_dev\1_unity\2024_aim\VRoom_v16_error30\Assets\Scripts
