@@ -11,7 +11,8 @@ Used Packages:
 * XR Interaction Toolkit
 
 <img src="./images/InputManager.png" width="800">
-Own Screenshot [^3]
+Own Screenshot[^3] 
+
 
 Create two new InputActions with the new InputManager
 * Button A: Primary Button
