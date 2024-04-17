@@ -10,6 +10,9 @@ Used Packages:
 * XR Plugin Management
 * XR Interaction Toolkit
 
+<img src="./images/InputManager.png" width="600">
 
 [^1]: https://learn.unity.com/course/create-with-vr
 [^2]: \Data\1_dev\1_unity\2024_aim\VRoom_v16_error30\Assets\Scripts
+[^3]: \Users\nisch\Bilder\Screenshots
+
