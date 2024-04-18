@@ -28,7 +28,7 @@ Water pistol asset from AssetStore[^4]. For the shooting Algorithm in Unity
 see the [cannon example](../../../Cannon_MoveShot).
 
 * Create a "shot" prefab with RigidBody
-* Use the Script [XRButtonsAB.cs](./scripts/XRButtonsAShot.cs)
+* Use the Script [XRButtonsAShot.cs](./scripts/XRButtonsAShot.cs)
    * Instantiate for cloning
    * addForce to move the projectile
  
